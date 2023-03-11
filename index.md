@@ -10,6 +10,8 @@ During my master's, I also worked with Prof. Bryan Gick, the director of UBC Int
 
 Before joining the HCT Lab, I was a MITACS Globalink Research Intern in the Faculty of Medicine and Dentistry, Department of Radiology and Diagnostic Imaging, University of Alberta, Edmonton, advised by Dr. Lawrence Le. I obtained my Bachelor of Engineering (B.E) degree in Electrical Engineering from Jadavpur University, Kolkata, India, my final year project being under Prof. Amitava Chatterjee. During my junior year, I interned on the 3D Medical Image Processing area, in the Electronics and Electrical Communication Engineering Department at the Indian Institute of Technology (IIT Kgp), jointly supervised by Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara. In my senior year, I worked as a research intern in the Tomography Lab, Department of Electrical Engineering, at the Indian Institute of Science (IISc Bangalore) under Prof. Kasi Rajgopal.
 
+## Research Interests
+
 My current research primarily centers around **medical image analysis**, **computer vision**, and **deep learning** -- with a special focus on solving challenges in decentralized training of machine learning models. My research interests include **federated learning**, **self-supervised learning**, **semi-supervised learning**, **Speech Motor Control**, and **Brain-Computer Interfaces**.
 
 <!--
