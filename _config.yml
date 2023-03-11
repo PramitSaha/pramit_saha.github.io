@@ -8,18 +8,14 @@ email: pramit.saha (at) ox.ac.uk
 # Search Engine Optimization (SEO)
 keywords: pramit, pramit saha, saha pramit, saha, Oxford,
 canonical: https://pramit-saha.me
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+description: Pramit Saha is a doctorate student at University of Oxford. His research lies in deep learning, federated learning, semi-supervised learning, self-supervised learning, domain adaptation, and medical image analysis.
 
-# The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
 
-# The option is used to show the last update time.
-enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
+google_scholar: https://scholar.google.com/citations?user=Sb7d-rsAAAAJ
+cv_link: 
+github_link: https://github.com/PramitSaha
 linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
 
